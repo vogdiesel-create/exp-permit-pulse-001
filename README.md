@@ -1,23 +1,35 @@
-# PermitPulse - Building Permit Intelligence
+# PermitPulse
 
-**See every building permit filed in your market before your competition.**
+**Building permit intelligence for real estate investors. See development before it happens.**
 
-Automated monitoring of new construction, renovation, and demolition permits for real estate investors, contractors, and suppliers.
+## The Problem
 
-## What It Does
-- Daily permit feed for your target geography
-- Categorized by type: new build, renovation, commercial, residential
-- Contractor and property owner data included
-- Trend analysis showing where development is accelerating
-- Export to CRM or spreadsheet
+Building permit data is the most underused leading indicator in real estate. Renovation permit spikes predict 8-15% price increases within 18 months. But the data is fragmented across hundreds of county websites.
 
-## Who It Is For
-- Real estate investors tracking development trends
-- Building material suppliers finding new customers
-- Contractors identifying upcoming projects
-- Appraisers and analysts tracking market activity
+## The Solution
+
+PermitPulse aggregates building permit data from county websites into a daily feed filtered by your geography. See renovation trends, new construction, and demolitions before they affect prices.
+
+## Features
+
+- Multi-county permit aggregation
+- Daily feed filtered by geography
+- Renovation vs new construction vs demolition tracking
+- Trend analysis and neighborhood scoring
+- Investment opportunity alerts
 
 ## Pricing
-Starting at $99/mo per market.
 
-**[Start Monitoring Your Market](https://vogdiesel-create.github.io/exp-permit-pulse-001/)**
+**$99/mo** -- free during early access.
+
+## Get Early Access
+
+[Sign up for early access](https://vogdiesel-create.github.io/exp-permit-pulse-001/) and be the first to try it.
+
+## Status
+
+Currently in early access. We're onboarding users and collecting feedback.
+
+---
+
+Built with AI. Tested with real data. Priced for practitioners, not enterprises.
